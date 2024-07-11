@@ -1,7 +1,6 @@
 from GetSchedule import GetSchedule
 import time
 import threading
-from concurrent.futures import ThreadPoolExecutor
 
 def main():
 
